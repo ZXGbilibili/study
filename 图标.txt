@@ -1,0 +1,41 @@
+图标地址 https://fontawesome.com/v4/icons/
+<i class="fa fa-user-circle" aria-hidden="true"></i>关于
+<i class="fa fa-bars" aria-hidden="true"></i>  it 下面的分类
+<i class="fa fa-cogs" aria-hidden="true"></i> 系统
+<i class="fa fa-html5" aria-hidden="true"></i>  html
+<i class="fa fa-google" aria-hidden="true"></i>  谷歌
+<i class="fa fa-windows" aria-hidden="true"></i> win 
+<i class="fa fa-weixin" aria-hidden="true"></i>  微信
+<i class="fa fa-linux" aria-hidden="true"></i> linux
+   <i class="fa fa-weibo" aria-hidden="true"></i>  微博
+<i class="fa fa-flag" aria-hidden="true"></i>   flag    <i class="fa fa-flag-checkered" aria-hidden="true"></i>     flag
+<i class="fa fa-gift" aria-hidden="true"></i>  礼物
+<i class="fa fa-television" aria-hidden="true"></i>  计算机
+<i class="fa fa-twitch" aria-hidden="true"></i>  说说
+<i class="fa fa-qq" aria-hidden="true"></i>  qq
+ <i class="fa fa-laptop" aria-hidden="true"></i>   计算机
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> 留言板
+<i class="fa fa-commenting" aria-hidden="true"></i>留言板2
+
+<i class="fa fa-steam-square" aria-hidden="true"></i>  steam
+<i class="fa fa-id-card" aria-hidden="true"></i>  友链
+<i class="fa fa-link"></i> 友链
+<i class="fa fa-chain-broken" aria-hidden="true"></i>  友情链接
+<i class="fa fa-link"></i> 友链
+<i class="fa fa-coffee" aria-hidden="true"></i> 生活
+<i class="fa fa-desktop" aria-hidden="true"></i>  计算机
+<i class="fa fa-flag-checkered" aria-hidden="true"></i>  flag
+<i class="fa fa-music" aria-hidden="true"></i>  音乐
+<i class="fa fa-pie-chart" aria-hidden="true"></i>  扇形图
+<i class="fa fa-telegram" aria-hidden="true"></i>    telegram
+<i class="fa fa-bug" aria-hidden="true"></i>    bug图标
+<i class="fa fa-camera" aria-hidden="true"></i>  相机
+<i class="fa fa-file-image-o" aria-hidden="true"></i>  图片文件图标
+<i class="fa fa-picture-o" aria-hidden="true"></i>  图片图标
+<i class="fa fa-file-video-o" aria-hidden="true"></i>   视频文件图标
+<i class="fa fa-pencil" aria-hidden="true"></i>  随笔
+<i class="fa fa-pencil-square" aria-hidden="true"></i> 随笔2
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> 随笔3
+<i class="fa fa-bookmark-o" aria-hidden="true"></i>  标签
+<i class="fa fa-gamepad" aria-hidden="true"></i>  游戏图标
+<i class="fa fa-hand-o-right" aria-hidden="true"></i> 向右指的手指
